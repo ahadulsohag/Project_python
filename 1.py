@@ -4,3 +4,7 @@ print(type(li))
 print(list[:])
 atuple = (1,)
 print(atuple.index(1)) 
+adict = {"a": 1, "b": 2}
+atu = (90,)
+d = {atu: 3}
+print(d)
