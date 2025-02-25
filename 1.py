@@ -8,3 +8,5 @@ adict = {"a": 1, "b": 2}
 atu = (90,)
 d = {atu: 3}
 print(d)
+adi = {"a": 2, 2: 4}
+print(type(adi))
