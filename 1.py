@@ -13,3 +13,4 @@ print(type(adi))
 ab, ac, ad = atu
 print(type(ab))
 print(ab)
+print(ac)
